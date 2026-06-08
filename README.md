@@ -1,8 +1,8 @@
 # NarcoLinkAI : Social Media Drug Dealer Detection
 
 **Authors:**
+*   Sudhanshu Shekhar ([@Sudhanshu727](https://github.com/Sudhanshu727))
 *   Soumya Sourav Das ([@celestial317](https://github.com/celestial317))
-*   Sudhanshu Shekhar ([@s17](https://github.com/s17))
 *   Devyanshi Bansal ([@DevyanshiBansal](https://github.com/DevyanshiBansal))
 
 > **Built for Shield 1.0 Hackathon**  
